@@ -73,7 +73,7 @@ body,html {
 #middle {
     width: 100%;
     height: 80vh;
-    background: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,0)), url("images/ghibli-wallpaper.jfif") center center no-repeat;
+    background: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,0)), url("ghibli-wallpaper.jfif") center center no-repeat;
     background-size: cover;
     color: white;
     display: flex;
